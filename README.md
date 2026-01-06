@@ -1,2 +1,2 @@
-# ASSIGNMENT-1-
-Solutions for week 1 assignment of Data Science
+# ASSIGNMENT- SOLUTIONS
+Solutions for the Weekly Assignment of Data Science
